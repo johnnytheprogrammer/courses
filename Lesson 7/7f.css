@@ -1,0 +1,43 @@
+.Email 
+{
+  font-family: Arial;
+  font-size: 12px;
+  margin-bottom: 3px;
+  color: rgb(85, 84, 84);
+}
+.emailtext 
+{
+  width: 300px;
+  font-size: 16px;
+  border-radius: 3px;
+  border-style: solid;
+  border-color: rgb(77, 77, 77);
+  border-width: 1px;
+  margin-bottom: 7px;
+}
+.info
+{
+  font-family: Arial;
+  font-size: 12px;
+  margin-bottom: 10px;
+  color: rgb(85, 84, 84);
+}
+.agreeandjoin 
+{
+background-color:rgb(65, 65, 245);
+color: white;
+border: none;
+width: 300px;
+padding-top: 10px;
+padding-bottom: 10px;
+border-radius: 30px;
+cursor: pointer;
+}
+.agreeandjoin:hover 
+{
+  opacity: 0.8;
+}
+.agreeandjoin:active
+{
+  opacity: 0.5;
+}

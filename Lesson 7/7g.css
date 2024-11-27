@@ -1,0 +1,32 @@
+.asa 
+{
+  width: 50px;
+  vertical-align: middle;
+  border-radius: 20px;
+  margin-right: 8px;
+}
+.statustext 
+{
+  width: 300px;
+  font-size: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.tweet 
+{
+  vertical-align: middle;
+  background-color:rgb(79, 173, 250);
+  color:white;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 16px;
+  padding-left: 16px;
+  border: none;
+  font-weight: bold;
+  border-radius: 30px;
+  cursor: pointer;
+  font-size: 16px;
+}
