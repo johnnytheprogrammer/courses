@@ -1,0 +1,11 @@
+  .search-box 
+  {
+    border-radius: 8px;
+    border-width: 1px;
+    font-style: 16px;
+    border-color: rgb(200,200,200);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
