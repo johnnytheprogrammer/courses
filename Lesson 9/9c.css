@@ -1,0 +1,10 @@
+div {
+  border-style: solid;
+  border-color: rgb(200,200,200);
+  border-width: 1px;
+  display: inline-block;
+  width: 300px;
+  padding-left: 15px;
+  padding-bottom: 20px;
+  vertical-align: middle;
+}

@@ -11,14 +11,23 @@
 
       .search-bar 
       {
+        display: block;
         font-size: 20px;
         margin-left: 12px;
+      }
+      .video-preview 
+      {
+        width: 300px;
+        display: inline-block;
+        margin-right: 15px;
+        vertical-align: top;
       }
     </style>
   </head>
   <body>
     <input class="search-bar" type="text" placeholder="Search">
-    <img class="thumbnail" src="thumbnails/thumbnail1.jpg">
+    <div class="video-preview">
+      <img class="thumbnail" src="thumbnails/thumbnail1.jpg">
     <p>
       HTML & CSS Full Course - Beginner to Pro
     </p>
@@ -28,5 +37,19 @@
     <p>
       12M views &#183; 2 years ago
     </p>
+    </div>
+
+    <div class="video-preview">
+      <img class="thumbnail" src="thumbnails/thumbnail2.jpg">
+    <p>
+      RAVA - METGALA (Official Video)
+    </p>
+    <p>
+      Seek Music
+    </p>
+    <p>
+      2.3M views &#183; 7 months ago
+    </p>
+    </div>
   </body>
 </html>
