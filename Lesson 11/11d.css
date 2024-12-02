@@ -2,14 +2,18 @@ div
 {
 border-width: 1px;
 display: inline-block;
-box-shadow: 0 0 5px rgba(0,0,0,0.3);
 margin-right: 10px;
 }
-
+.layoutfacebook {
+  width: 200px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  vertical-align: top;
+  margin-right: 15px;
+}
 .profilepicture
 {
-width: 187px;
-object-fit: cover;
+width: 200px;
+object-fit:cover;
 }
 p
 {
@@ -28,10 +32,7 @@ p
 .mutualfriends 
 {
   font-size: 12px;
-  margin-top: 5px;
   color: rgb(112, 112, 112);
-  margin-bottom: 7px;
-  margin-left: 7px;
 }
 button
 {
@@ -55,4 +56,20 @@ button:hover {
 }
 button:active {
   opacity: 0.5;
+}
+.mutualfriends-row {
+  margin-bottom: 7px;
+  margin-left: 7px; 
+}
+.pfpmutual {
+  width: 30px;
+  margin-right: 0;
+}
+.pfpmutualimg {
+  width: 30px;
+  border-radius: 15px;
+}
+.mutualfriendstext {
+  vertical-align: 50%;
+  margin-left: 4px;
 }
