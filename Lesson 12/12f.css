@@ -1,0 +1,39 @@
+div {
+  font-family: Arial;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(124, 42, 255);
+  height: 50px;
+  align-items: center;
+  justify-content: space-between;
+}
+.home {
+  margin-left: 20px;
+  color: white;
+  font-weight: bold;
+}
+.text-box {
+  font-size: 18px;
+  border-radius: 18px;
+  border: none;
+  width: 700px;
+  height: 32px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.download {
+  margin-right: 20px;
+  background-color: rgb(124, 42, 255);
+  border-width: 1px;
+  border-color: rgb(255, 255, 255);
+  color: white;
+  border-style: solid;
+  padding-right: 12px;
+  padding-left: 12px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  font-weight: bold;
+  cursor: pointer;
+}
