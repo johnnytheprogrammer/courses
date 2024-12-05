@@ -7,9 +7,6 @@ p {
 .flexbox {
   display: flex;
   margin-bottom: 10px;
-  border-width: 1px;
-  border-color: gray;
-  border-style: solid;
   width: 300px;
 }
 .profilepic {
