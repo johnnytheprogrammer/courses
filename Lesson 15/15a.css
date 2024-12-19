@@ -1,0 +1,20 @@
+body {
+  height: 3000px;
+}
+.close-button {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  font-family: Arial;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
