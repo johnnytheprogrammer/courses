@@ -10,7 +10,7 @@
   width: 40px;
 }
 .profilepicture {
-  width: 40px;
+  width: 36px;
   border-radius: 50px;
 }
 .videotitle {
@@ -19,10 +19,14 @@
   font-size: 14px;
   font-weight: 500;
   line-height: 20px;
-  margin-bottom: 12px;
+  margin-bottom: 10px;
+}
+.video-title-link {
+  text-decoration: none;
+  color: black;
 }
 .thumbnailrow {
-  margin-bottom: 12px;
+  margin-bottom: 8px;
   position: relative;
 }
 .channelname, .videostats {
